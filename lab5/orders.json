@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John",
+    "phoneNumber": "+380995575480",
+    "address": "Main St 123",
+    "goodID": "ABC123",
+    "amount": "100000"
+  },
+  {
+    "name": "Jane",
+    "phoneNumber": "+380987654321",
+    "address": "Elm St 456",
+    "goodID": "DEF456",
+    "amount": "50000"
+  },
+  {
+    "name": "Bob",
+    "phoneNumber": "+380912345678",
+    "address": "Oak St 789",
+    "goodID": "GHI789",
+    "amount": "75000"
+  },
+  {
+    "name": "Maria",
+    "phoneNumber": "+380995575480",
+    "address": "Green St 12",
+    "goodID": "ABC113",
+    "amount": "100"
+  },
+  {
+    "name": "Dmytro",
+    "phoneNumber": "+380987654321",
+    "address": "Doroshenka St 101",
+    "goodID": "DGF456",
+    "amount": "54000003"
+  },
+  {
+    "name": "Bohdan",
+    "phoneNumber": "+380912345678",
+    "address": "Chornovola St 789",
+    "goodID": "GDI369",
+    "amount": "750001"
+  }
+]
